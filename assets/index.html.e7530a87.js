@@ -1,0 +1,1 @@
+const t={key:"v-07f91f24",path:"/tag/%E6%BA%90%E7%A0%81/",title:"\u6E90\u7801 Tags",lang:"en-US",frontmatter:{title:"\u6E90\u7801 Tags",blog:{type:"category",name:"\u6E90\u7801",key:"tag"},layout:"Blog"},excerpt:"",headers:[],git:{},readingTime:{minutes:0,words:0},filePathRelative:null};export{t as data};
